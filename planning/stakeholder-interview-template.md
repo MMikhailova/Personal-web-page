@@ -18,6 +18,31 @@
 
 ## 1. First Interview
 
+1. Who are you professionally? 
+Transformational business leader.
+2. What are doing?
+I am motivating and inspiring people to deliver the business goals of today and transform a business for a futur.
+3. Why are you doing that?
+I am highly motivated by working with people. I have experience in FMCG with very strong company cultur.
+I have unique experience of both comercial and operations sides of the business. I am motivated by success. 
+I am motivated by new challenges.
+4. How do you think your experience and knowledge can help others?
+By understanding the challenges the people I communicate with applying my brain combiying experience and high energy.
+I can help people by providing mentoring and coaching, podcasts, business examples, career advices, modeling situations, stress resilience in a taf business environemt.
+5. What do enjoy the most when doing so.
+Following the success of people i work with. See progress. Positive feedback.
+6. How do you solve a problem?
+Find alternative solution. Team work.
+7. What are you intrests?
+Active lifestyle. To be in the heart of the busness.
+8. What are your ambitions?
+I want to have a healphy well-being. I want to rule a business.
+9. What is businee.
+People and money. Legacy, brand, power.
+
+
+
+
 <!--
   Take some time getting to know your partner and their ambitions. Ask questions about:
 
@@ -61,6 +86,9 @@
 ### Needs
 
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
+Attract clients.
+Manage my agenda. Work for yourself.
+
 
 ### Insights
 
@@ -74,9 +102,9 @@
   In your own words describe:
 
   - Why does your partner need this home page?
-  - How do they want to be represented?
-  - Who do they want to visit their page?
-  - What do they want different visitors to see them?
+  - How do they want to be represented? I want to be represented as mentor of leadership, career mentoring, stratedy.
+  - Who do they want to visit their page? Young and ambitions people with some work experience facing difficulties along their way.
+  - What do they want different visitors to see them? Business leader who listen and understand their problems and help them to solve it.
 
   A useful format:
 
