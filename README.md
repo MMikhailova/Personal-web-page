@@ -1,6 +1,6 @@
-# Name of project
+# Web Page for a Business Psychologist.
 
-> A longer description
+> Whithin this project I will practice Design thinking by developing a customized Web page for a Business Psychologist.
 
 ## Table of contents
 
@@ -22,8 +22,9 @@
 
 ## General info
 
-> A short description
-
+> Business Psychologist wants to have a Web page that will help him to promote his values, strengthen his self brand and attract more clients.
+> He also wants to create a community of business professionals where they could share ideas and solve complex business cases.
+> 
 ## Screenshots
 
 ![Example screenshot](./planning/screenshot.jpg)
@@ -32,8 +33,9 @@
 
 - Node 14.16.0
 - VSC code
+- Figma
+- HTML/CSS
 - JavaScript
-- ...
 - ...
 
 ## Setup
@@ -66,7 +68,7 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+https://dominique-ara.com/about/
 
 ## Contact
 
