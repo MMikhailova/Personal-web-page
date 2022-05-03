@@ -1,1 +1,1 @@
-![alt](/../../images/Alex.png)
+![alt](/./images/Alex.png)
